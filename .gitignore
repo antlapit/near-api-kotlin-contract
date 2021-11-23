@@ -28,3 +28,7 @@ yarn-error.log*
 
 .idea
 .cache
+
+node_modules
+contract/node_modules
+contract/build
